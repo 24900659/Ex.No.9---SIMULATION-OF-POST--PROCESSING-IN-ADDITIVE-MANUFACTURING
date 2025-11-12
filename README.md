@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 12.11.25
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -53,8 +53,8 @@
 <img width="1571" height="908" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/7f991d96-5914-4f6d-bb56-36965b72b5a8" />
 
 
-### Name:
-### Register Number:
+### Name:MOHANA K.V.S.L
+### Register Number:212224240093
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
