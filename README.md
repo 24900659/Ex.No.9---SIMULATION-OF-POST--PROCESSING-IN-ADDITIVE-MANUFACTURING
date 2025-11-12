@@ -50,7 +50,8 @@
 
 <img width="1552" height="910" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/67c4b879-9127-4036-a42b-3943c7cbece3" />
 
-<img width="1571" height="908" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/7f991d96-5914-4f6d-bb56-36965b72b5a8" />
+<img width="1571" height="908" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/c4f5ccad-40b4-4fe0-9bba-08d89ff14d1e" />
+
 
 
 ### Name:MOHANA K.V.S.L
